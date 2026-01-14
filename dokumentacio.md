@@ -3,7 +3,7 @@
 Ez egy egyszerű Node.js backend feladat.
 
 ## Tartalom
-- Egyszerű Express szerver (`GET /`)
+- Egyszerű Express szerver get
 - Teszt Postmanben
 
 ## Futtatás

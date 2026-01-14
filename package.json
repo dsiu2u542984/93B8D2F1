@@ -1,0 +1,24 @@
+{
+  "name": "93b8d2f1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsiu2u542984/93B8D2F1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsiu2u542984/93B8D2F1/issues"
+  },
+  "homepage": "https://github.com/dsiu2u542984/93B8D2F1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
